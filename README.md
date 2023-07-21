@@ -5,6 +5,7 @@ The Mental Health Fitness Tracker project focuses on analyzing and predicting me
 To use the code and run the examples, follow these steps:
 
 1 Ensure that you have Python 3.x installed on your system.
+
 2 Install the required libraries by running the following command:
 
     pip install pandas numpy matplotlib seaborn scikit-learn xgboost
